@@ -20,14 +20,14 @@ An autonomous, multi-agent AI research assistant designed to automate deep-dive 
 - **LLM Integration:** OpenAI / Groq / Anthropic APIs
 - **Tools & Utilities:** Custom web scraping and search toolkits
 
----
+
 
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
 Make sure **Python 3.10+** is installed on your system.
 
-### 2. Clone the #
+### 2. Clone the Repository
 ```bash
 git clone https://github.com/hemaprajapatii/Multi-Agent-Research-System.git](https://github.com/hemaprajapatii/Multi-Agent-Research-System.git)
 cd Multi-Agent-Research-System
