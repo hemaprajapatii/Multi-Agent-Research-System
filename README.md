@@ -27,11 +27,23 @@ An autonomous, multi-agent AI research assistant designed to automate deep-dive 
 ### 1. Prerequisites
 Make sure **Python 3.10+** is installed on your system.
 
-### 2. Clone the Repository
+### 2. Clone the #
 ```bash
 git clone [https://github.com/hemaprajapatii/Multi-Agent-Research-System.git](https://github.com/hemaprajapatii/Multi-Agent-Research-System.git)
 cd Multi-Agent-Research-System
-
+```
 ### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+### 4. Configure Environment Variables
+Create a .env file in the root directory and add your API keys:
+```bash
+Code snippet:
+OPENAI_API_KEY=your_openai_api_key_here
+SERPER_API_KEY=your_serper_api_key_here
+
+```
+### 5. Run the Application
+python app.py
+
