@@ -29,7 +29,7 @@ Make sure **Python 3.10+** is installed on your system.
 
 ### 2. Clone the #
 ```bash
-git clone [https://github.com/hemaprajapatii/Multi-Agent-Research-System.git](https://github.com/hemaprajapatii/Multi-Agent-Research-System.git)
+git clone https://github.com/hemaprajapatii/Multi-Agent-Research-System.git](https://github.com/hemaprajapatii/Multi-Agent-Research-System.git)
 cd Multi-Agent-Research-System
 
 ```
